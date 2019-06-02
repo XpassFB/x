@@ -1,4 +1,8 @@
-
+#!/data/data/com.termux/files/usr/bin/bash
+echo "##############################################"
+echo " "
+echo "Original source: https://github.com/Hax4us/Metasploit_termux"
+echo "##############################################"
 echo   " # Hak Cipta: Wily Extended "
 
 import os
