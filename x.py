@@ -1,5 +1,5 @@
 
-echo # Hak Cipta: Wily Extended
+echo   " # Hak Cipta: Wily Extended "
 
 import os
 import sys
