@@ -1,5 +1,5 @@
 
-echo # Copyright: Wily Extended | lolcat -a -d 10
+echo  # Hak Cipta: Wily Extended
 
 import os
 import sys
