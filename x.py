@@ -61,7 +61,7 @@ class autoBrute:
 			"me/friends?access_token=%s"%(
 				self.token))).json()["data"]:
 			self.target.append(x["id"])
-		p=ThreadPool(input("Masukan Angka: "))
+		p=ThreadPool(input("%s[*]%s Masukan Angka: "))
 		p.map(self.k,self.target)
 		self.panggil()
 		
