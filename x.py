@@ -21,7 +21,7 @@ C = '\033[36m'
 
 
 
-def ngontol():
+def fb():
 	if os.path.exists("Checkpoint.txt"):
 		if os.path.getsize("Checkpoint.txt") !=0:
 			cek=raw_input('%s[*]%s File Exists: %sCheckpoint.txt%s\n%s[*]%s Replace? y/n): '%(R,N,B,N,R,N)).lower()
