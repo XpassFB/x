@@ -1,4 +1,0 @@
-# Copyright : Wily Extended
-
-
-
